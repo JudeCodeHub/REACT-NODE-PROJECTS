@@ -1,103 +1,84 @@
-# My React and Node.js Projects
+# React & Node.js Projects
 
-A collection of 7 projects showcasing full-stack development with React, Node.js, and modern web technologies.
+A collection of frontend, backend, and full-stack web development projects built with React, TypeScript, Node.js, Express, Firebase, MongoDB, and modern web technologies.
 
 ## Projects
 
 ### DM Delay App
 
-A React app for composing and scheduling delayed messages.
+An application for composing and scheduling delayed direct messages.
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Radix UI, Lucide React.
-
-**How to Run:**
-
-```bash
-cd React-Node-js-/DM Delay App
-npm install
-npm run dev
-```
+**Technologies:** React, TypeScript, Vite, Tailwind CSS
 
 ### Full-Stack Notes App
 
-A notes app with React frontend and Firebase backend.
+A cloud-connected notes application for creating and managing notes.
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Radix UI, Firebase, React Hot Toast.
-
-**How to Run:**
-
-```bash
-cd React-Node-js-/Full-Stack Notes App
-npm install
-npm run dev
-```
+**Technologies:** React, TypeScript, Firebase, Vite, Tailwind CSS
 
 ### GIF Search App
 
-A React app for searching and displaying GIFs.
+A responsive application for searching and displaying GIFs using the Giphy API.
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Radix UI, Lucide React.
-
-**How to Run:**
-
-```bash
-cd React-Node-js-/GIF Search App
-npm install
-npm run dev
-```
+**Technologies:** React, TypeScript, Vite, Giphy API
 
 ### MERN Stack API
 
-A Node.js backend API for MERN stack applications.
+A Node.js and Express backend foundation for MERN stack applications.
 
-**Tech Stack:** Node.js, Express, CORS.
-
-**How to Run:**
-
-```bash
-cd React-Node-js-/MERN Stack API/backend
-npm install
-npm run server
-```
+**Technologies:** Node.js, Express, JavaScript, CORS
 
 ### MoodMail
 
-A React app for mood-based emails or messages.
+A React application for creating mood-based messages and email content.
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Radix UI, Lucide React.
+**Technologies:** React, TypeScript, Vite, Tailwind CSS
 
-**How to Run:**
+### CRUD Backend
 
-```bash
-cd React-Node-js-/MoodMail
-npm install
-npm run dev
-```
+A RESTful quote-management API with full create, read, update, and delete functionality.
 
-### Simple Node.js CRUD Backend
-
-A backend API for CRUD operations with MongoDB.
-
-**Tech Stack:** Node.js, Express, Mongoose, MongoDB, CORS, dotenv.
-
-**How to Run:**
-
-```bash
-cd React-Node-js-/Simple Node.js CRUD Backend
-npm install
-npm run server
-```
+**Technologies:** Node.js, Express, MongoDB, Mongoose
 
 ### Time Tracker
 
-A React app for tracking time with charts.
+A React application for recording time-related information and displaying charts.
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Radix UI, Chart.js, React Chart.js 2.
+**Technologies:** React, TypeScript, Vite, Chart.js
 
-**How to Run:**
+## Skills Demonstrated
+
+- React and TypeScript development
+- Responsive interface design
+- REST API development
+- CRUD operations
+- MongoDB and Firebase integration
+- Third-party API integration
+- Data visualization
+- Reusable component architecture
+
+## Getting Started
+
+Each project has its own dependencies and setup instructions.
 
 ```bash
-cd React-Node-js-/Time Tracker
+git clone https://github.com/JudeCodeHub/REACT-NODE-PROJECTS.git
+cd REACT-NODE-PROJECTS
+cd "Project Directory"
 npm install
 npm run dev
 ```
+
+Backend projects may use:
+
+```bash
+npm run server
+```
+
+Some projects require environment variables for Firebase, MongoDB, or the Giphy API.
+
+## About
+
+This repository showcases my ongoing experience with frontend, backend, and full-stack web development.
+
+Created and maintained by [JudeCodeHub](https://github.com/JudeCodeHub).
